@@ -6,7 +6,7 @@ I am a passionate Bsc. IT student, driven by a deep fascination for technology a
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at Graphic Era Hill University, Dehradun.
+- 🔭 I'm currently pursuing my Bachelor's of Science in Information Technology at D.G. Ruparel College, Mumbai.
 - 💻 Actively involved in Web Development, Competitive Programming, and Problem Solving, constantly honing my skills.
 - 🏆 Proud participant in LeetCode and Codeforces contests, solving challenging problems and enhancing my coding expertise.
 - 🚀 Passionate about building innovative web applications and sharing knowledge with the tech community.
