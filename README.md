@@ -1,7 +1,46 @@
-## Hi there 👋
+# Hi, I'm Manash Giri! 👋
+
+I am a passionate Bsc. IT student, driven by a deep fascination for technology and a constant desire to innovate. My journey is all about exploring cutting-edge solutions in computer science, embracing challenges, and contributing to the tech community along the way.
+
+![ManashGiri](https://github-readme-stats.vercel.app/api?username=ManashGiri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at Graphic Era Hill University, Dehradun.
+- 💻 Actively involved in Web Development, Competitive Programming, and Problem Solving, constantly honing my skills.
+- 🏆 Proud participant in LeetCode and Codeforces contests, solving challenging problems and enhancing my coding expertise.
+- 🚀 Passionate about building innovative web applications and sharing knowledge with the tech community.
+- ✨ Always eager to explore new technologies and take on exciting projects in the world of computer science.
+<!--
+## My Projects
+- [🚀 Built an interactive Simon Says game using HTML, CSS, and JavaScript, designed to test memory skills and provide a fun web-based experience.]
+- [🚀 Built a full-stack AirBnb clone using the MERN Stack, featuring dynamic user authentication, property listings, and booking functionality, delivering a seamless user experience from both frontend and backend perspectives.]
+-->
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,express,git,github,c,cpp,python,java)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+  - 🚀 Exploring Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS and BootStrap to create modern and responsive user interfaces.
+<!--
+ ## 🏆 Achievements
+
+- Completed 600+ questions on Leetcode.
+
+
+## 📬 Get in Touch
+
+- Connect with me on [Twitter]
+- Connect with me on [Linkedin]
+- Connect Here [Linktree]
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 <!--
-**ManashGiri/ManashGiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
