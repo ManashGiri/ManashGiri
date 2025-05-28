@@ -17,7 +17,7 @@ I am a passionate Bsc. IT student, driven by a deep fascination for technology a
 - 🚀 Built a full-stack AirBnb clone using the MERN Stack, featuring dynamic user authentication, property listings, and booking functionality, delivering a seamless user experience from both frontend and backend perspectives.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,express,nodejs,react,mongodb,mysql,sqlplus,git,github,cpp,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,express,nodejs,react,mongodb,mysql,sql,git,github,cpp,c,python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
