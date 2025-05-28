@@ -13,11 +13,11 @@ I am a passionate Bsc. IT student, driven by a deep fascination for technology a
 - ✨ Always eager to explore new technologies and take on exciting projects in the world of computer science.
 
 ## My Projects
-- [🚀 Built an interactive Simon Says game using HTML, CSS, and JavaScript, designed to test memory skills and provide a fun web-based experience.]
-- [🚀 Built a full-stack AirBnb clone using the MERN Stack, featuring dynamic user authentication, property listings, and booking functionality, delivering a seamless user experience from both frontend and backend perspectives.]
+- 🚀 Built an interactive Simon Says game using HTML, CSS, and JavaScript, designed to test memory skills and provide a fun web-based experience.
+- 🚀 Built a full-stack AirBnb clone using the MERN Stack, featuring dynamic user authentication, property listings, and booking functionality, delivering a seamless user experience from both frontend and backend perspectives.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,mongodb,mysql,express,git,github,c,cpp,python,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,express,nodejs,react,mongodb,mysql,,git,github,cpp,c,python)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
