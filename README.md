@@ -4,6 +4,8 @@ I am a passionate Bsc. IT student, driven by a deep fascination for technology a
 
 ![ManashGiri](https://github-readme-stats.vercel.app/api?username=ManashGiri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+[![Manash Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManashGiri)](https://github.com/ManashGiri/github-readme-stats)
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's of Science in Information Technology at D.G. Ruparel College, Mumbai.
