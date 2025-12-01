@@ -4,11 +4,11 @@ I am a passionate Bsc. IT student, driven by a deep fascination for technology a
 
 ![ManashGiri](https://github-readme-stats.vercel.app/api?username=ManashGiri&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-[![Manash Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManashGiri)](https://github.com/ManashGiri/github-readme-stats)
+![Manash Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManashGiri)
 
-[![Manash Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManashGiri&show_icons=true&theme=radical)](https://github.com/ManashGiri/github-readme-stats)
+![Manash Giri's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManashGiri&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManashGiri&layout=compact)](https://github.com/ManashGiri/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManashGiri&layout=compact)
 
 ## 🚀 About Me
 
