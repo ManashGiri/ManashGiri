@@ -8,10 +8,9 @@ I am a passionate Bsc. IT student, driven by a deep fascination for technology a
 ![](https://nirzak-streak-stats.vercel.app/?user=ManashGiri&theme=chartreuse-dark&hide_border=false)<br/>
 
 ## ✉️ Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manash-giri-128395298) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:503manashsvjc@gmail.com) 
-
+ 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-074B7C?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNDggNDgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZmlsbD0iIzA3NEI3QyIgZD0iTTQyLDNDNDMuNywzLDQ1LDQuMyw0NSw2djM2YzAsMS43LTEuMywzLTMsM0g2Yy0xLjcsMC0zLTEuMy0zLTNWNmMwLTEuNywxLjMtMywzLTNINDJ6Ij48L3BhdGg+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTEzLjYsMzYuOVYxN2gtNS4ydjE5LjljMCwwLjUsMCwwLjksMCwwLjloNS4yVjM2Ljl6Ij48L3BhdGg+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTExLDIwLjVoLTBjLTEuMiwwLTIuMS0wLjktMi4xLTIuMWMwLTEuMiwwLjktMi4xLDIuMS0yLjFjMS4yLDAsMi4xLDAuOSwyLjEsMi4xQzEzLjEsMTkuNiwxMi4yLDIwLjUsMTEsMjAuNXoiPjwvcGF0aD48cGF0aCBmaWxsPSIjRkZGIiBkPSJNMjcuNywzNi45di05LjdjMC0yLjYtMC45LTQuMy0zLjQtNC4zYy0xLjksMC0yLjgsMS4zLTMuMiwxLjdjLTAuMiwwLjItMC4yLDAuNS0wLjIsMC44djExLjVoLTUuMnYtMTkuOWg1LjJ2Mi42IGMwLDAsMCwwLDAsMGMwLjgtMS4yLDIuMi0yLjksNC43LTIuOWM1LjEsMCw4LjksMy40LDguOSw4Ljd2MTEuNUgzNy4xQzM3LjEsMzYuOSwyNy43LDM2LjksMjcuNywzNi45eiI+PC9wYXRoPjwvc3ZnPg==)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:503manashsvjc@gmail.com) 
 
 ## 🚀 About Me
 
