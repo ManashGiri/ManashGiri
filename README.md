@@ -7,6 +7,10 @@ I am a passionate Bsc. IT student, driven by a deep fascination for technology a
 ![](https://github-readme-stats.vercel.app/api?username=ManashGiri&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ManashGiri&theme=chartreuse-dark&hide_border=false)<br/>
 
+## ✉️ Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manash-giri-128395298) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:503manashsvjc@gmail.com) 
+
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's of Science in Information Technology at D.G. Ruparel College, Mumbai.
