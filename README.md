@@ -25,7 +25,7 @@ I am a passionate Bsc. IT student, driven by a deep fascination for technology a
 - [🚀 Built a full-stack AirBnb clone using the MERN Stack, featuring dynamic user authentication, property listings, and booking functionality, delivering a seamless user experience from both frontend and backend perspectives.](https://nestin-wnne.onrender.com/listings)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,express,nodejs,react,mongodb,mysql,git,github,cpp,c,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,express,nodejs,react,mongodb,mysql,git,github,cpp,c,python,csharp)](https://skillicons.dev)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
