@@ -2,10 +2,10 @@
 
 I am a passionate Bsc. IT student, driven by a deep fascination for technology and a constant desire to innovate. My journey is all about exploring cutting-edge solutions in computer science, embracing challenges, and contributing to the tech community along the way.
 
-<!--![](https://github-readme-stats.vercel.app/api?username=iamomjoshi&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=iamomjoshi&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3)<br/>-->
-![](https://github-readme-stats.vercel.app/api?username=iamomjoshi&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iamomjoshi&theme=chartreuse-dark&hide_border=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=ManashGiri&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=ManashGiri&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3)<br/>-->
+![](https://github-readme-stats.vercel.app/api?username=ManashGiri&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ManashGiri&theme=chartreuse-dark&hide_border=false)<br/>
 
 ## 🚀 About Me
 
